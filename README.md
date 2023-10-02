@@ -16,6 +16,9 @@
 ![](screenshots/contact.png)
 ![](screenshots/ac2repo.png)
 
+### Activity 3: Changing Color Theme
+![Alt text](screenshots/color.png)
+
 
 ## Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
