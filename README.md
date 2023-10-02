@@ -22,6 +22,8 @@
 
 ### Activity 4: Create new section and embed google maps
 ![](screenshots/places.png)
+![](screenshots/ac4.png)
+![](screenshots/repo4.png)
 
 ## Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
