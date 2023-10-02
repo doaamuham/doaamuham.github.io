@@ -18,6 +18,7 @@
 
 ### Activity 3: Changing Color Theme
 ![Alt text](screenshots/color.png)
+![](screenshots/repoac3.png)
 
 
 ## Personal Portfolio ⚡️ 
