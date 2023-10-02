@@ -1,4 +1,10 @@
-# Personal Portfolio ⚡️ 
+# Doaa Muhammad
+## Note: this repo is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io
+
+### Activity 1: Cloning to Repo
+![](screenshots/activity1lab2.png)
+
+## Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
 
 > https://varadbhogayata.github.io
