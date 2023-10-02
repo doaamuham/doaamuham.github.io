@@ -3,6 +3,19 @@
 
 ### Activity 1: Cloning to Repo
 ![](screenshots/activity1lab2.png)
+![](screenshots/repo.png)
+
+### Activity 2: Adding your personal information
+![](screenshots/front.png)
+![](screenshots/about.png)
+![](screenshots/experience.png)
+![](screenshots/projects.png)
+![](screenshots/skills.png)
+![](screenshots/lib.png)
+![](screenshots/education.png)
+![](screenshots/contact.png)
+![](screenshots/ac2repo.png)
+
 
 ## Personal Portfolio ⚡️ 
 > A clean, beautiful, responsive portfolio template for Software Developers!
